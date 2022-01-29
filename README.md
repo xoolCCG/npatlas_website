@@ -1,5 +1,7 @@
 # The Natural Products Atlas
 
+It is an Open Access Platform for the Scientific Community. You can collaborate by Sharing your Fragmentation Spectra Data.
+
 Hosted at www.npatlas.org
 
 AUTHOR: Jeff van Santen
